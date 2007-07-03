@@ -1,6 +1,9 @@
-MANIFEST
+Changes
 Makefile.PL
-Ensembl.pm
+MANIFEST
 README
+WHAT_MODULES
 ens_modtest.pl
-META.yml         Module meta-data (added by MakeMaker)
+t/Bundle-Ensembl.t
+lib/Bundle/Ensembl.pm
+META.yml                                 Module meta-data (added by MakeMaker)
