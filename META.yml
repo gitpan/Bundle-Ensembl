@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:                Bundle-Ensembl
-version:             0.01
-abstract:            Perl extension for blah blah blah
+version:             0.03
+abstract:            Bundle for installing Ensembl Perl Modules 
 license:             ~
 generated_by:        ExtUtils::MakeMaker version 6.34
 distribution_type:   module
@@ -10,4 +10,4 @@ meta-spec:
     url:     http://module-build.sourceforge.net/META-spec-v1.2.html
     version: 1.2
 author:
-    - root <root@suse.de>
+    - Ahamarshan JN <ashgene@suse.de>

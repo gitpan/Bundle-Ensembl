@@ -2,7 +2,7 @@ Bundle-Ensembl version 0.02
 ===========================
 Authors: Ahamarshan JN 
          www.gpse.org , www.mellorlab.org
-Version: 0.02
+Version: 0.03
 
 NOTES:
 
@@ -20,9 +20,9 @@ INSTALLATION
 
 Download the package
 then
-gunzip Bundle_Ensembl-v0.02.tar.gz
-tar -xvf Bundle_Ensembl-v0.02.tar
-cd Bundle_Ensembl_v0.02/
+gunzip Bundle_Ensembl-v0.03.tar.gz
+tar -xvf Bundle_Ensembl-v0.03.tar
+cd Bundle_Ensembl_v0.03/
 
 To install this module type the following:
 
